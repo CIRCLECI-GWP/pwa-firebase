@@ -1,0 +1,23 @@
+{
+  "name": "my-pwa-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIRCLECI-GWP/pwa-firebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CIRCLECI-GWP/pwa-firebase/issues"
+  },
+  "homepage": "https://github.com/CIRCLECI-GWP/pwa-firebase#readme",
+  "devDependencies": {
+    "firebase-tools": "^8.4.0"
+  }
+}
