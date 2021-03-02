@@ -1,5 +1,7 @@
 name: Add Recently Created Issues to Project Column
-on: [issues]
+on:
+  issues:
+    types: [opened]
 jobs:
   build:
     runs-on: ubuntu-latest
