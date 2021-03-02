@@ -1,5 +1,7 @@
 name: Add Recently Created Pull Requests to Project Column
-on: [pull_request]
+on:
+  pull_request:
+    types: [opened]
 jobs:
   build:
     runs-on: ubuntu-latest
