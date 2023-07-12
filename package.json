@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/CIRCLECI-GWP/pwa-firebase#readme",
   "devDependencies": {
-    "firebase-tools": "^8.4.0"
+    "firebase-tools": "^12.4.3"
   }
 }
